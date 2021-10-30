@@ -1,0 +1,6 @@
+
+export const CHANGE_PLAY_LIST = "player/CHANGE_PLAY_LIST";
+export const CHANGE_CURRENT_SONG_INDEX = "player/CHANGE_CURRENT_SONG_INDEX";
+export const CHANGE_CURRENT_LOOP = "player/CHANGE_CURRENT_LOOP";
+export const CHANGE_CURRENT_LYTIT = "player/CHANGE_CURRENT_LYTIT";
+
